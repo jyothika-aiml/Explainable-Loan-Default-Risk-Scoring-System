@@ -285,7 +285,7 @@ Possible future enhancements include:
 
 **Jyothika M**
 
- AI & ML  Student
+ Artificial Intelligence and Machine Learning (AI & ML) Student
 
 ### Areas of Interest
 
